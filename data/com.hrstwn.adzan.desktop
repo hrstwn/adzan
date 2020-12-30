@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Adzan
+GenericName=Prayer Times App
+Comment=Remind you to Prayer
+Categories=Education;
+Exec=com.github.hrstwn.adzan
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Hello;World;Example;
