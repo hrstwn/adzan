@@ -11,15 +11,10 @@
             <summary>Vertical Position</summary>
             <description>The saved vertical position of our window</description>
         </key>
-        <key name="window-width" type="i">
-            <default>480</default>
-            <summary>Horizontal Position</summary>
-            <description>The saved horizontal position of our window</description>
-        </key>
-        <key name="window-height" type="i">
-            <default>300</default>
-            <summary>Vertical Position</summary>
-            <description>The saved vertical position of our window</description>
+        <key name="button-stat" type="b">
+            <default>true</default>
+            <summary>Reveal status</summary>
+            <description>The saved reveal status of the list</description>
         </key>
     </schema>
 </schemalist>

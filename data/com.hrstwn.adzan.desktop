@@ -8,3 +8,4 @@ Icon=application-default-icon
 Terminal=false
 Type=Application
 Keywords=Hello;World;Example;
+X-GNOME-UsesNotifications=true
